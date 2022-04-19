@@ -55,8 +55,11 @@ body, html {
     font-family: 'Texturina';
     font-size: calc(var(--text-scale-unit) * 3.5);
     letter-spacing: 2px;
-    next-line: 5px;
     color: #f1f1f1;
+}
+
+.text {
+    next-line: 5px;
 }
 
 .social {
