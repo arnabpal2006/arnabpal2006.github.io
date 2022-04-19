@@ -86,11 +86,6 @@ a {
     border-radius: 100px;
     transition: 0.3s;
 }
-.lni-twitter-original:hover {
-    background: #1DA1F2;
-    border-radius: 100px;
-    transition: 0.3s;
-}
 .lni-github-original:hover {
     background: #000000;
     border-radius: 100px;
@@ -98,16 +93,6 @@ a {
 }
 .lni-telegram-original:hover {
     background: #0088cc;
-    border-radius: 100px;
-    transition: 0.3s;
-}
-.lni-xda:hover {
-    background: #f59714;
-    border-radius: 100px;
-    transition: 0.3s;
-}
-.lni-envelope:hover {
-    background: #dd4b39;
     border-radius: 100px;
     transition: 0.3s;
 }
