@@ -32,6 +32,7 @@ function write (obj, sentence, i, cb) {
      setTimeout(function () {
      erase(obj, cb) }, time) })
      }
+
 var sentences = [
   "a Customrom Developer. ",
   "Arnab Pal. "
