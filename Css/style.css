@@ -96,3 +96,8 @@ a {
     border-radius: 100px;
     transition: 0.3s;
 }
+.lni-xda:hover {
+    background: #f59714;
+    border-radius: 100px;
+    transition: 0.3s;
+}
