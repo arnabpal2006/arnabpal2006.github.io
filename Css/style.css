@@ -101,3 +101,8 @@ a {
     border-radius: 100px;
     transition: 0.3s;
 }
+.lni-envelope:hover {
+    background: #dd4b39;
+    border-radius: 100px;
+    transition: 0.3s;
+}
